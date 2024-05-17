@@ -23,7 +23,7 @@ para encontrar los valores de estas funciones para un ángulo dado.
         ** Para la tangente, presiona el botón “tan”.
 
 2. Ingresar el ángulo en grados:
-    *Primero, debes ingresar el valor del ángulo en grados en la calculadora.
+    * Primero, debes ingresar el valor del ángulo en grados en la calculadora.
 
 3. Obtener el resultado:
-    *La calculadora mostrará el valor del seno, coseno o tangente del ángulo ingresado.
+    * La calculadora mostrará el valor del seno, coseno o tangente del ángulo ingresado.
