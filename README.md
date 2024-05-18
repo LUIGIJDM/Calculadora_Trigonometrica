@@ -9,7 +9,7 @@ ___
 
 ## Descripición General de la Calculadora Trigonométrica
 
-Esta Calculadora Trigonométrica está diseñada para calcular el seno, el coseno
+   Esta Calculadora Trigonométrica está diseñada para calcular el seno, el coseno
 y la tangente. Estas funciones trigonométricas son comunes en matemáticas y se 
 utilizan para calcular relaciones entre los lados de un triángulo rectángulo o 
 para encontrar los valores de estas funciones para un ángulo dado. 
