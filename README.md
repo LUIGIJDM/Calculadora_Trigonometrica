@@ -18,6 +18,7 @@ para encontrar los valores de estas funciones para un ángulo dado.
 
 1. Seleccionar la función:
     * Luego, elige la función que deseas calcular:
+      
         ** Para el seno, presiona el botón “sin”.
         ** Para el coseno, presiona el botón “cos”.
         ** Para la tangente, presiona el botón “tan”.
