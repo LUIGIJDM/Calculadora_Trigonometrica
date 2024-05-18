@@ -19,14 +19,17 @@ para encontrar los valores de estas funciones para un ángulo dado.
 1. Seleccionar la función:
     * Luego, elige la función que deseas calcular:
       
-         * Para el seno, presiona el botón “sin”.
+         * Para el Seno, colocar la opción 1) Calcular el Seno.
            
-         * Para el coseno, presiona el botón “cos”.
+         * Para el Coseno, colocar la opción 2) Calcular el Coseno.
            
-         * Para la tangente, presiona el botón “tan”.
+         * Para la Tangente, colocar la opción 3) Calcular el Tangente.
 
 2. Ingresar el ángulo en grados:
     * Primero, debes ingresar el valor del ángulo en grados en la calculadora.
 
 3. Obtener el resultado:
     * La calculadora mostrará el valor del seno, coseno o tangente del ángulo ingresado.
+
+4. Apagar la calculadora:
+    * Para apagar la calculadora, colocar la opción 4) Apagar Calculadora.
